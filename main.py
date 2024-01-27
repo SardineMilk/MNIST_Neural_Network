@@ -1,7 +1,8 @@
 import numpy
 import numpy as np
 import matplotlib.pyplot as plt
-
+# import profiler
+# profiler.profiler().start(True)
 """
 The network consists of an Input layer, an arbitrary number of Hidden layers and an Output layer.
 The input of the network is a 1d array consisting of values between 0 and 1, with 0 being black and 1 being white.
